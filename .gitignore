@@ -1,4 +1,6 @@
 logs/
+exmaple
+*.png
 *.exe
 ### IntelliJ IDEA ###
 .idea
